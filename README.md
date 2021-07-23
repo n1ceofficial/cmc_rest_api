@@ -1,1 +1,1 @@
-# cmc_rest_api
+REST Api for CoinMarketCap
